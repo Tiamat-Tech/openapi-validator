@@ -1,3 +1,10 @@
+# ibm-openapi-validator [1.38.0](https://github.com/IBM/openapi-validator/compare/ibm-openapi-validator@1.37.18...ibm-openapi-validator@1.38.0) (2026-07-24)
+
+
+### Features
+
+* make HTTP ref resolving be able to switched off ([#839](https://github.com/IBM/openapi-validator/issues/839)) ([ef911b4](https://github.com/IBM/openapi-validator/commit/ef911b4e7602cd69580ceb1445b9cecbab9a8272))
+
 ## ibm-openapi-validator [1.37.18](https://github.com/IBM/openapi-validator/compare/ibm-openapi-validator@1.37.17...ibm-openapi-validator@1.37.18) (2026-07-24)
 
 
