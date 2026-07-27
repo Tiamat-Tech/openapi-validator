@@ -1,3 +1,10 @@
+## @ibm-cloud/openapi-ruleset [1.33.13](https://github.com/IBM/openapi-validator/compare/@ibm-cloud/openapi-ruleset@1.33.12...@ibm-cloud/openapi-ruleset@1.33.13) (2026-07-27)
+
+
+### Bug Fixes
+
+* revert regex changes to address a regression ([#840](https://github.com/IBM/openapi-validator/issues/840)) ([58e6daf](https://github.com/IBM/openapi-validator/commit/58e6daf91d40e47a53435c30a8550403d8263c48))
+
 ## @ibm-cloud/openapi-ruleset [1.33.12](https://github.com/IBM/openapi-validator/compare/@ibm-cloud/openapi-ruleset@1.33.11...@ibm-cloud/openapi-ruleset@1.33.12) (2026-07-23)
 
 
